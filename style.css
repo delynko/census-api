@@ -1,0 +1,33 @@
+#map {
+    height: 100%;
+    width: 100%;
+}
+
+#charts {
+    height: 100%;
+    overflow-y: auto;
+    background-color: #F5F5F3;
+    padding-left: 10;
+    border-left-style: solid;
+    border-left-color: white;
+    width: 100%
+
+    
+}
+
+p, h4, h5 {
+    color: #666666
+}
+
+.padding-0 {
+    padding-left: 0;
+    padding-right: 0
+}
+
+.newChart  {
+    padding-right:15px
+}
+
+button {
+    padding: 10px
+}
